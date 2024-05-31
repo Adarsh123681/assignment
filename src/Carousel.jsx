@@ -77,7 +77,7 @@ const Carousel = () => {
                     }`}
                   style={{ display: index === curind ? 'block' : 'none' }}
                 >
-                  <Header />
+                  <Header/>
                   {type === 'vid' ? (
                     <video
                     className='w-screen' 
