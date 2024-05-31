@@ -90,8 +90,7 @@ const Carousel = () => {
                   ) : (
                     <img src={link} alt={`Slide ${index + 1}`} className="w-screen h-[40rem] overflow-hidden" />
                   )}
-
-                  <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent rounded-lg"></div>
+                  
                   <span className="content absolute left-4 bottom-2 text-2xl p-2 w-1/2 ">
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad aut provident soluta quidem fugit! Sit consequatur provident praesentium at vel!
                   </span>
