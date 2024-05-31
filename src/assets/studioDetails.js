@@ -1,0 +1,32 @@
+export const studioDetails = [
+  {
+    id: 1,
+    name: "Interiors",
+    img: "https://images.unsplash.com/photo-1656268834597-b99ddbf1b253?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    id: 2,
+    name: "Engineering",
+    img: "https://media.istockphoto.com/id/1171902434/photo/smart-industry-control-concept.jpg?s=1024x1024&w=is&k=20&c=Q6FKFcOijIQAtj-2vkcIL6aJVvMYWbKOrOIWrM6PIn0="
+  },
+  {
+    id: 3,
+    name: "Industrial Design",
+    img: "https://images.unsplash.com/photo-1616267231958-3179b1d0b7d1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    id: 4,
+    name: "Technology And Research",
+    img: "https://plus.unsplash.com/premium_photo-1664301890851-fbc3ef03c049?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }, {
+    id: 5,
+    name: "WorkPlace Consultancy",
+    img: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    id: 6,
+    name: "Urban and LandScape Design",
+    img: "https://images.unsplash.com/photo-1514439827219-9137a0b99245?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+
+]
